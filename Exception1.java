@@ -10,7 +10,7 @@ class Exception1
 		System.out.println("Please Enter first number");
 		int no1 = sobj.nextInt();
 
-		System.out.println("Please Enter Second number");
+		System.out.println("Please Enter Second number"); //new comment
 		int no2 = sobj.nextInt();
 
 		int ans = no1/no2;
